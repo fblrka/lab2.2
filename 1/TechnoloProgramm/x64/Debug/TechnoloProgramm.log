@@ -1,0 +1,3 @@
+﻿  queue.cpp
+D:\vova\ucheba\предметы\4сем\технологии программирования\лр1\1\TechnoloProgramm\queue.cpp(64): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  TechnoloProgramm.vcxproj -> D:\vova\ucheba\предметы\4сем\технологии программирования\лр1\1\TechnoloProgramm\x64\Debug\TechnoloProgramm.exe
